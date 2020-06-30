@@ -1,0 +1,26 @@
+Wavelength in nm
+PPF in mmol m^-2 s^-1
+Area cm^2
+Mass grams
+Height cm
+Photosynthetic productivity (mg m^-2 s^-1)
+
+
+
+
+
+Red 1 > 640
+Blue 2 > 460
+
+red blue  1:1     3
+
+red blue 2:1     4
+red blue 1:2	5
+
+white	6
+red near-uv 23:2	7 > (near uv 365)
+
+red cyan 9:1	8 >(cyan 500)
+
+red-blue 6:1	9
+
